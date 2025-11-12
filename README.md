@@ -58,7 +58,7 @@ python organize_files.py --output C:\MyOrganizedFiles
 ### Scan Specific Drives Only
 
 ```bash
-python organize_files.py --drives C: D:
+python organize_files.py --drives C D
 ```
 
 ### Get Help
